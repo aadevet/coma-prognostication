@@ -1,6 +1,6 @@
 # Multimodal Coma Recovery — CEBRA EEG Embedding Pipeline
 
-CEBRA contrastive embedding pipeline for EEG state classification using PPNet prototype activations from the ICARE cohort.
+Predicting coma recovery using >5TB of EEG data of 1000+ ICARE patients. Method: CEBRA contrastive embedding pipeline for EEG state classification using PPNet prototype activations from the ICARE cohort.
 
 ## Classes
 
